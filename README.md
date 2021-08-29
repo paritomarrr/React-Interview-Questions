@@ -34,12 +34,11 @@ Click ⭐if you like the project. Pull Request are highly appreciated. Follow me
 | |
 | `9`  | What is Props? |
 | |
-| `8`  |What is a state in React and how is it used? |
+| `10`  |What is a state in React and how is it used? |
 | |
-| `8`  |How can you update the State of a component?    |
+| `11`  |How can you update the State of a component?    |
 | |
-| `8`  | What is the purpose of render() in React.    |
-| |
+
 
 
 
